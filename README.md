@@ -45,11 +45,11 @@ Execute o script `telegram_bot.py`.
 - Bibliotecas Python:
   - `requests`
   - `beautifulsoup4`
-  - `discord_bot.py`
+  - `discord.py`
 
 Você pode instalar as bibliotecas necessárias com o seguinte comando:
 ```
-pip install requests beautifulsoup4 discord_bot.py
+pip install requests beautifulsoup4 discord.py
 ````
 
 ## Configuração
